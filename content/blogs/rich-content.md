@@ -63,3 +63,8 @@ Optionally, you can customize the general CSS styles for the image:
 ```
 {{</* dynamic-img src="/my/image/on/cloudinary" title="A title for the image" style="max-width:60%" */>}}
 ```
+### Conclusion
+
+Hi guys :D !
+
+This section was added for demonstration purposes.
